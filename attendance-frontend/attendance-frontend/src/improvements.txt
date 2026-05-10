@@ -1,0 +1,21 @@
+1. In faculty profile -> Academic -> Display his subjects
+
+2. In faculty -> View Attendance -> Display Attendance by Subject not by Faculty.
+
+3. In Profile -> Setting -> Remove Delete Account option
+
+4. In Profile -> Setting -> Develop Change password option
+
+5. In Profile -> Make sure Attendance and Subject tab should display for students only
+
+6. In Hod login -> Develop assigining class teacher and remove classteacher feature
+
+7. In Hod login -> Develop deleting faculty feature
+
+8. In Faculty login -> Develop editing , deleting students feature
+
+9. Develop Principal login.
+
+10. In Profile -> Develop edit profile feature
+
+11. Report Generation

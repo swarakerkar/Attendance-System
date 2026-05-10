@@ -1,0 +1,34 @@
+Date:- 13/03/2026
+Work: 	1.Created backend 
+		a. Created database , tables
+		b. Api's created through PHP to access data
+		c. Checked the api's are working or not?
+		
+Date:- 15/03/2026
+Work: 	Worked on API's 
+
+
+Date:- 17/03/2026
+to find all students of particular subject : "SELECT *  FROM students,subjects WHERE subjects.id =1 AND students.department_id = subjects.department_id;"
+
+Work:
+
+Date:- 1/4/2026
+Developed students dashboard, students can see their Attendance for each subject
+	
+Date:- 2/4/2026
+Improved Database design to assign different roles to faculty as hod etc.
+Developed Hod,Principal Dashboard
+
+Date:- 3/4/2026
+Created Class_teacher table to assign Class_teacher to faculties
+Develop Attendance edit feature for faculties
+
+
+Date:- 4/4/2026
+Developed add students feature
+
+Date:- 6/4/2026
+Improved API,s , removed unwanted part, Tested some API's.
+
+
